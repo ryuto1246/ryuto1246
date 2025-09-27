@@ -1,6 +1,6 @@
 ## Hi! I'm Ryuto Nakamura
   - University of Tokyo, Komaba
-  - 18 years old
+  - 19 years old
 <p> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuto1246&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ryuto1246&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
